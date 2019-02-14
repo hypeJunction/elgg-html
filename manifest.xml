@@ -7,7 +7,7 @@
     <description>Replaces output/longtext because it sucks</description>
     <category>core</category>
 
-    <version type="dist">1.0.0</version>
+    <version type="dist">0.0.1</version>
 
     <author>Ismayil Khayredinov (info@hypejunction.com)</author>
     <website>https://hypejunction.com/</website>
